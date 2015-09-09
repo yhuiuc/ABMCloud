@@ -6,3 +6,7 @@
 
 # no Readme file for now
 README
+
+public/uploads
+tmp
+logs
