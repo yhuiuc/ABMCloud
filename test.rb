@@ -1,6 +1,7 @@
 Testing branching mechanism!
 Testing
-Right
+Hotfix
 Wrong
 Who is wrong?
 Who is right?
+I am
